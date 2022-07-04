@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning R , python, SQL and Power BI.
 - 💞️ I'm looking to collaborate on data science, open source software and geoscience...
 - 📫 How to reach me email: rreisdev@gmail.com. 
-- 
+
 <!---
 RodolfoGDS/RodolfoGDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
